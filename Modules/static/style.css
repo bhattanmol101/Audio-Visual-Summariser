@@ -1,0 +1,81 @@
+body{
+    background-color: darkcyan;
+}
+
+.s-img {
+    position: fixed;
+    left: 30px;
+    top: 18px;
+    width: 140px; 
+    height: 110px;
+}
+.s-heading {
+    font-size: 25px;
+    font-weight: 600;
+    margin-top: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+input{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    padding-left: 3px;
+    color: darkblue;
+}
+
+.s-disp{
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 110px;
+    margin-left: 470px;
+}
+
+.s-in-topic{
+    width: 200px;
+    height: 30px;
+    margin-left: 60px;
+    box-shadow: 3px 3px 3px black;
+    border-width: 2px;
+    border-radius: 4px;
+}
+
+.s-in-name{
+    width: 200px;
+    height: 30px;
+    margin-left: 29px;
+    box-shadow: 3px 3px 3px black;
+    border-width: 2px;
+    border-radius: 4px;
+}
+
+.s-in-duration{
+    width: 200px;
+    height: 30px;
+    margin-left: 100px;
+    margin-right: 10px;
+    box-shadow: 3px 3px 3px black;
+    border-width: 2px;
+    border-radius: 4px
+}
+
+.s-button{
+    width: 200px;
+    height: 40px;
+    margin-left: 120px;
+    font-size: 20px;
+    font-weight: 500;
+    background-color: #8a2be2;
+    color: #00ffff;
+    box-shadow: 3px 3px 3px black;
+    border-width: 2px;
+    border-radius: 4px
+}
+@media (max-width: 70em){
+    .s-disp{
+        font-size: 25px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        margin-top: 170px;
+        margin-left: 285px;
+    }
+}

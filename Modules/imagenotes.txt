@@ -1,0 +1,17 @@
+Jekyll is a blograwaret statie site generator It uses a set of template or
+layout ﬁles) the associated css ﬁles, and plain text ﬁles for the posts.
+The posts can use the Markdown formal or another similar markup
+language. Jekyll grabs the post markup and inserts it into the layouts,
+spitting out standard HTML markupialung with linked files (any
+css, JayaScriptt images) and the like) 7 ready for you to upload to
+your web server There is no content management system> no
+database, and no speciﬁc language support on the web server required;
+your site is a collection oi plain old statie HTML ﬁlesJekyll is a blograwaret statie site generator It uses a set of template or
+layout ﬁles) the associated css ﬁles, and plain text ﬁles for the posts.
+The posts can use the Markdown formal or another similar markup
+language. Jekyll grabs the post markup and inserts it into the layouts,
+spitting out standard HTML markupialung with linked files (any
+css, JayaScriptt images) and the like) 7 ready for you to upload to
+your web server There is no content management system> no
+database, and no speciﬁc language support on the web server required;
+your site is a collection oi plain old statie HTML ﬁles
